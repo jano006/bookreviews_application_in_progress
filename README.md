@@ -8,7 +8,7 @@ This app is a work in progress and will expand over time to support advanced fea
 - **Java 17** - The main programming language for the backend.
 - **Spring Boot** - Framework for building and managing Java-based applications.
 - **Spring Data JPA** - For seamless integration with relational databases.
-- **Auth0** (planned) - To handle secure user authentication, registration, and role management.
+- **Auth0** (planned) - To handle secure user authentication, registration, and role management. (Auth0 will issue JWT - JSON Web Tokens after successful authentication. Tokens will be used to protect endpoints, ensuring that only authorized users can access specific functionalities).
 - **Maven** - For project and dependency management.
 - **React** (planned) - Planned frontend framework for building a dynamic, single-page application (SPA) interface.
 - **MySQL** - For data persistence, storing information on books, reviews, and user roles.
